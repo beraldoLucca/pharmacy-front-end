@@ -1,0 +1,16 @@
+{
+  "customers": [
+    {
+      "nome": "João Feijão",
+      "idade": 56
+    },
+    {
+      "nome": "Marias das dores",
+      "idade": 63
+    },
+    {
+      "nome": "Joana de Fátima",
+      "idade": 49
+    }
+  ]
+}
